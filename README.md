@@ -48,3 +48,4 @@ Build an interactive **dashboard**, derive **insights** from the data, and propo
 
 ## 🚀 Outcome
 This project demonstrates not only technical skills in Power BI but also the ability to **think critically, analyze data, and communicate insights effectively** for decision-making.
+
