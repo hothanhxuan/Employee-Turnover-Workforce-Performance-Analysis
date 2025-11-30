@@ -7,7 +7,7 @@ How can HR leaders understand turnover drivers, workforce composition, and perfo
 **Domain:**  
 Human Resources Analytics (HR Operations)
 
-Author: Susan Ho 
+Author: Susan Ho  
 Date: 2025-12-01  
 Tools Used: Excel / Power BI  
 
