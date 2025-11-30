@@ -85,10 +85,9 @@ Only one main HR dataset was used:
 | AbsenceDays | Total days absent |
 
 <details>
-<summary>Click to toggle: Raw data snapshot</summary>
 Employee | ManagerID | PositionID | Gender | RaceDesc | Date of Hire | RecruitmentSource | EmploymentStatus | Salary | SatisfactionScore | EngagementScore | AbsenceDays
 10026-Adinolfi | 22 | 19 | M | White | 1983-10-07 | Indeed | Active | 62506 | 5 | 4.6 | 1
 10084-Ait Sidi | 4 | 27 | M | White | 1975-05-05 | Indeed | Voluntarily Terminated | 104437 | 3 | 4.96 | 17
 ...
-<details>
+
 
