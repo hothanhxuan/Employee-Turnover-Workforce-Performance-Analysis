@@ -1,5 +1,4 @@
 # 📊 HR Analytics Dashboard  
-**Employee Turnover & Workforce Performance Analysis | HR Domain | Excel + Power BI**
 
 **Business Question:**  
 How can HR leaders understand turnover drivers, workforce composition, and performance trends to improve employee retention and optimize operational decisions?
