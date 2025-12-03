@@ -142,7 +142,7 @@ Examples of measures created:
 - **Average Engagement Score**
 
 ### 4️⃣ Power BI Visualization  
-Developed a 4-page dashboard covering:  
+Developed a 2-page dashboard covering:  
 - Workforce Overview  
 - Turnover & Department Metrics  
 - Recruitment vs Termination Insights  
