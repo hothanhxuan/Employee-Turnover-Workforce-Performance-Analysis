@@ -1,4 +1,4 @@
-# 📊 Project 1: HR Analytics Dashboard
+# 🧑‍🤝‍🧑 Project 1: HR Analytics Dashboard
 
 **Business Question:**  
 How can HR leaders understand turnover drivers, workforce composition, and performance trends to improve employee retention and optimize operational decisions?
