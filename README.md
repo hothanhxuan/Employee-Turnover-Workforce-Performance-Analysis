@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Project 3: HR Analytics Dashboard
+# 🧑‍🤝‍🧑 Project 3: HR Analytics Dashboard: Employee Turnover & Workforce Performance | Power BI
 
 **❓Business Question:**  
 How can HR leaders understand turnover drivers (Why do employees leave?), workforce composition (How are employees distributed by department, tenure, age, and gender?), and performance trends (How are performance and engagement changing?) to improve employee retention and optimize operational decisions?
