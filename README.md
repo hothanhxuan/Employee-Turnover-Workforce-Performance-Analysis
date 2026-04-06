@@ -243,18 +243,27 @@ Production may require targeted retention programs, while Sales' practices could
 
 ## 🔎 Final Conclusion & Recommendations  
 
-### 📌 Key Takeaways  
-✔ High turnover rate suggests a need for stronger retention strategies  
-✔ Production department faces significant churn issues  
-✔ Satisfaction & engagement levels vary across departments  
-✔ Recruitment relies heavily on Indeed & LinkedIn  
-✔ Exit reasons indicate internal improvement opportunities  
+### 🔑 Key Takeaways  
+1. **Turnover Drivers**  
+   - Total turnover: 34.78%  
+   - Main reasons: career growth, dissatisfaction, salary  
+   - High-risk groups: Production & mid-tenure employees  
 
-### 📌 Recommended Actions  
-✔ Implement retention initiatives focused on Production  
-✔ Review compensation competitiveness  
-✔ Provide more career mobility opportunities  
-✔ Enhance onboarding & engagement frameworks  
-✔ Diversify recruitment sources  
+2. **Workforce Composition**  
+   - Experienced employees (avg tenure 12.31 years) but turnover is high  
+   - Balanced gender, average age 36.5  
+   - Turnover by department: Production 40.69%, Sales 16.13%, IT/Software 33.33%  
+
+3. **Performance Trends**  
+   - Engagement average 4.11 → higher engagement = lower turnover  
+   - Performance average 3.85 → lower in high-turnover departments  
+   - Improving engagement can increase performance and reduce turnover  
+
+### ⭐ Recommended Actions  
+✔ Implement **retention programs** for Production and mid-tenure employees  
+✔ Improve **compensation and career growth opportunities**  
+✔ Increase **engagement & satisfaction** through onboarding, mentoring, recognition  
+✔ **Diversify recruitment sources** beyond Indeed & LinkedIn  
+✔ Monitor **dashboard KPIs**: turnover, satisfaction, engagement, performance for timely HR decisions  
 
 ---
