@@ -1,7 +1,7 @@
-# 🧑‍🤝‍🧑 Project 1: HR Analytics Dashboard
+# 🧑‍🤝‍🧑 Project 3: HR Analytics Dashboard
 
-**Business Question:**  
-How can HR leaders understand turnover drivers, workforce composition, and performance trends to improve employee retention and optimize operational decisions?
+**❓Business Question:**  
+How can HR leaders understand turnover drivers (Why do employees leave?), workforce composition (How are employees distributed by department, tenure, age, and gender?), and performance trends (How are performance and engagement changing?) to improve employee retention and optimize operational decisions?
 
 **Domain:**  
 Human Resources Analytics (HR Operations)
@@ -156,46 +156,86 @@ Developed a 2-page dashboard covering:
 
 ![Image](https://github.com/user-attachments/assets/fb194ecd-ddf7-4984-b872-dfbf1dc4ad6b)
 
-### 1️⃣ Workforce Overview  
-
 **Main Findings:**  
 - Total employees: **299**  
 - Turnover rate: **34.78%**  
 - Avg tenure: **12.31 years**  
 - Absence rate: **0.23%**  
-- Avg satisfaction score: **3.89**  
-- Avg engagement score: **4.11**
+- Avg satisfaction score: **3.89/5**  
+- Avg engagement score: **4.11/5**
 
 **Interpretation:**  
 The company has a mature workforce but faces turnover challenges that may affect stability and productivity.
 
 ---
 
-### 2️⃣ Department Analysis  
+### 1️⃣ Turnover Drivers – Why do employees leave?
 
-**Key Metrics:**  
-- Production turnover: **40.69%** (highest)  
-- Sales turnover: **16.13%** (lowest)  
-- IT/IS & Software Engineering show high engagement (>4.0)
+| Reason | Number of employees | % of total turnover |
+|--------|------------------|------------------|
+| Another position | 20 | 18.7% |
+| Unhappy | 14 | 13.1% |
+| Higher salary | 11 | 10.3% |
+| Personal/Other | 36 | 33.6% |
+| Unknown | 20 | 18.7% |
 
-**Interpretation:**  
-Production may require targeted retention programs, while Sales' practices could serve as a model for other departments.
+**Analysis:**  
+- Production department has the **highest turnover: 40.69%**  
+- Main reasons: career growth, salary, job satisfaction  
+- IT/Software Engineering has **high engagement >4.0** → lower turnover  
 
 ---
 
-### 3️⃣ Recruitment & Termination Insights  
+### 2️⃣ Workforce Composition – Who are our employees?
+
+| Metric | Value | Notes |
+|--------|-------|------|
+| Total employees | 299 |  |
+| Gender | 52% Male, 48% Female |  |
+| Average age | 36.5 |  |
+| Average tenure | 12.31 years |  |
+| Turnover by department | Production 40.69%, Sales 16.13%, IT/Software 33.33% | Focus on high-turnover departments |
+
+**Analysis:**  
+- Workforce is experienced (avg tenure 12.31 years)  
+- Turnover is concentrated in Production and mid-tenure employees (5–15 years)  
+**Interpretation:**  
+Production may require targeted retention programs, while Sales' practices could serve as a model for other departments.
+---
+
+### 3️⃣ Performance Trends – How is performance and engagement?
+
+| Metric | Company average | Notable departments |
+|--------|----------------|------------------|
+| Performance score | 3.85 / 5 | IT/Software >4.0 |
+| Engagement score | 4.11 / 5 | IT/Software >4.0 |
+| Relationship with turnover | Low engagement → high turnover | Production, mid-tenure |
+
+**Analysis:**  
+- Higher engagement → better performance → lower turnover  
+- Low satisfaction or engagement → higher risk of leaving  
+- HR should focus on programs to improve engagement and performance 
+
+---
+
+### 4️⃣ Recruitment & Termination Insights  
 
 **Top Recruitment Sources:**  
-- Indeed (82 hires)  
-- LinkedIn (74 hires)  
+- Indeed: 82 hires  
+- LinkedIn: 74 hires  
 
 **Top Termination Reasons:**  
-- Another position (20)  
-- Unhappy (14)  
-- More money (11)  
+| Reason | Number of employees | % of total turnover |
+|--------|------------------|------------------|
+| Another position | 20 | 18.7% |
+| Unhappy | 14 | 13.1% |
+| Higher salary | 11 | 10.3% |
 
-**Interpretation:**  
-Most separations are avoidable with improvements in compensation, career growth, and workplace satisfaction.
+**Analysis & Interpretation:**  
+- Recruitment is concentrated on **Indeed and LinkedIn**, which covers most hires. HR may consider diversifying sources for future recruitment.  
+- **Turnover reasons** show that most separations are avoidable: career growth (another position), dissatisfaction (unhappy), and salary (higher pay elsewhere).  
+- Departments with high turnover (e.g., Production 40.69%) match these reasons, indicating HR should focus on **retention strategies** in these areas.  
+- Improving **compensation, career development, and workplace satisfaction** could directly reduce turnover and improve performance.  
 
 ### 🔍 Dashboard Workforce Database 
 ![Image](https://github.com/user-attachments/assets/ca274757-2134-429a-ad61-db5cd032376b)
